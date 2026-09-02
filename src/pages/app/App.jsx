@@ -26,17 +26,11 @@ const App = () => {
         <h3 className="sub-heading">Sejam sempre bem-vindos de volta ao Frei!</h3>
         
         <p className="text-paragraph">
-          O Instituto Social Nossa Senhora de Fátima agradece <br className="hidden md:block"/>
-          imensamente pela sua presença e participação em nossa Feira de <br className="hidden md:block"/>
-          Profissões.
+          O Instituto Social Nossa Senhora de Fátima agradece pela sua presença na Feira de Profissões. Foi uma alegria compartilhar nossa história, projetos e propósito de <br className="hidden md:block"/>
+          transformar vidas por meio da educação, qualificação profissional e cidadania. <br className="hidden md:block"/>
+      
         </p>
         
-        <p className="text-paragraph">
-          Foi uma grande alegria receber você em nossa instituição e <br className="hidden md:block"/>
-          compartilhar um pouco da nossa história, dos nossos projetos e, <br className="hidden md:block"/>
-          principalmente, do nosso propósito de transformar vidas por meio <br className="hidden md:block"/>
-          da educação, da qualificação profissional e da cidadania.
-        </p>
       </main>
 
       {/* SEÇÃO DE CALL TO ACTION (BRANCA) */}
